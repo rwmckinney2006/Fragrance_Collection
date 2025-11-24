@@ -32,4 +32,4 @@ for i, row in df.iterrows():
     with col2:
         st.image(row['image_path'], width=200)
         st.link_button("Buy Now", row['link_button'])
-    st.markdown("---")
+    st.divider()
