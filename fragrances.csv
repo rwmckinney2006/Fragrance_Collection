@@ -1,0 +1,13 @@
+id,name,brand,size_ml,concentration,retail_price,notes,season,image_path
+1,Paper (Expressive),Commodity,100,Eau de Parfum,155.0,"Iso E super, Cedar, Sandalwood",Spring,Images/Commodity Paper (Expressive).webp
+2,Spicebomb Extreme,Viktor & Rolf,90,Eau de Parfum,155.0,"Saffron, Cinnamon, Cumin, Bourbon Whiskey, Tabacoo, Vanilla",Fall/Winter,Images/Spicebomb Extreme.webp
+3,Bleu de Chanel,Chanel,100,Eau de Parfum,165.0,"Grapefruit, Lemon, Mint, Pink Pepper, Ginger, Nutmeg, Jasmine, Iso E Super, Incense, Vetiver, Cedar, Sandalwood, Patchouli, Labdanum, White Musk",All Seasons,Images/Bleu de Chanel EDP.jpg
+4,Side Effect,Initio,50,Eau de Parfum,280.0,"Rum, Tabacoo, Cinnamon, Saffron, Sandalwood, Hedione, Vanilla",Fall/Winter,Images/Side Effect.jpg
+5,Y,Yves Saint Laurent,100,Eau de Parfum,165.0,"Apple, Ginger, Bergamot, Sage, Juniper Berries, Geranium, Amberwood, Tonka Bean, Cedar, Vetier, Olibanum",All Seasons,Images/Y EDP.jpg
+6,Brighton (Custom),Olfactory NYC,50,Eau de Parfum,85.0,"Lemon, Bergamot, White Tea, Sandalwood, Musk, Hinoki, Juniper",Spring/Summer,Images/Brighton.webp
+7,Grand Soir,Maison Francis Kurkdjian,35,Eau de Parfum,165.0,"Spanish Labdanum, Orange, Lavender, Siam Benzoin, Amber, Vanilla, Tonka Bean, Musk, Cedar",Winter,Images/Grand Soir.jpg
+8,Karst,Aesop,50,Eau de Parfum,200.0,"Juniper, Bergamot, Pink Pepper, Rosemary, Sage, Cumin, Vetiver, Cedar, Sandalwood",Spring,Images/Karst.jpg
+9,Ingenious Ginger,Goldfield & Banks,50,Eau de Parfum,140.0,"Ginger Flower, Lemon, Bergamot, Mandarin Orange, Magnolia, Jasmine, Rose, Vanilla, Amber, Sandalwood, Cashmeran, Musk, Patchoulu",Summer,Images/Ingenious Ginger.jpg
+10,"O, Unknown",Imaginary Authors,50,Eau de Parfum,115.0,"Orris, Black Tea, Tea, Tolu Balsam, Sandalwood, Musk, Moss",Winter,"Images/O, Unknown.jpg"
+11,French Defense,Mind Games,100,Extrait de Parfum,395.0,"Black Cherry, Violet Leaves, Chamomile, Rose, Geranium, Mimosa, Amber, Blonde Woods, Cedarwood",Fall/Winter,Images/French Defense.jpg
+12,Ani X,Nishane,50,Extrait de Parfum,260.0,"Lemon, Bergamot, Ginger, Melon, Cardamom, Water Notes, Pink Pepper, Green Apple, Black Currant, Lavendar, Patchouli, Sage, Rose, Vanilla, Sandalwood, Cashmere Wood, Cedar, Ambergris, White Musk",Fall/Winter,Images/Ani X.jpg

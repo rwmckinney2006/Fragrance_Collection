@@ -1,19 +1,19 @@
 import mysql.connector
 import pandas as pd
-import warnings
-warnings.filterwarnings('ignore')
+\
+conn = mysql.connector.connect(
+    host = "localhost",
+    user = "root",
+    password = "Gnilyiwguoy@14",
+    database = "fragrance_db"
+)
 
-def get_connection():
-    return mysql.connector.connect(
-        host ="localhost",
-        user = "root",
-        password = "Gnilyiwguoy@14",
-        database = "fragrance_db"
-    )
+table_name = "fragrances"
 
-def load_fragrances():
-    conn = get_connection()
-    query = "SELECT name, brand, concentration, notes, image_path, retail_price, size_ml, season FROM fragrances;"
-    df = pd.read_sql(query, conn)
-    conn.close()
-    return df
+df = pd.read_sql(f"SELECT * FROM {table_name}", conn)
+
+df.to_csv("fragrances.csv", index=False)
+
+conn.close()
+
+print("Export complete!")
