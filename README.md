@@ -1,6 +1,8 @@
 # Fragrance Collection Database
 A  Streamlit app for storing and visualizing fragrance collection in Python and MySQL.
 
+**[Live Demo](https://fragrancecollection.streamlit.app/)
+
 ---
 
 ## Features
